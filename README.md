@@ -1,1 +1,1 @@
-my mmall
+my mmall web
